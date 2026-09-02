@@ -3,7 +3,7 @@ version: 2
 sources:
   - name: stripe
     description: a clone of the payment application database
-    database: raw  
+    database: SANTAM_ACTUARIAL_DEV  
     schema: stripe  
     tables:
       - name: payment
